@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Capstone Project one
-## Reserve data to local storage and validation form with JavaScript
+## Green energy website design
 
-In this project, I set up my first capstone project based on green energy. Which has index and about page, which has a certain section to describe about green energy. Sample screenshot has been put down below.
+- In this project, I set up my first capstone project based on green energy. Which has index and about page, which has a certain section to describe about green energy. Sample screenshot has been put down below.
 
 ## Screenshot of the project
  - Main display
