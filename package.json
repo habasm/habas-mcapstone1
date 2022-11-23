@@ -1,22 +1,22 @@
 {
-  "name": "portifolio",
+  "name": "capstone1",
   "version": "1.0.0",
-  "description": "My portfolio project",
+  "description": "habasm capstone project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mwapsam/portifolio.git"
+    "url": "git+https://github.com/habasm/habasm-capstone1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mwapsam/portifolio/issues"
+    "url": "https://github.com/habasm/habasm-capstone1.git/issues"
   },
-  "homepage": "https://github.com/Mwapsam/portifolio#readme",
+  "homepage": "https://github.com/habasm/habasm-capstone1.git#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
