@@ -25,6 +25,10 @@
 
 [Live Preview Link](https://habasm.github.io/habasm-capstone1/)
 
+## :red_circle: Video Demonstration
+
+[Watch Video demo](https://www.loom.com/share/eb2708584b6347abafcb6e0a04158bd0/)
+
 ## :hammer: Built With
 
 - HTML and CSS
