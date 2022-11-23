@@ -84,12 +84,14 @@ function toggleMenu() {
     menuIcon.style.display = 'block';
     menu.style.top = '-10px';
     menu.style.opacity = 0;
+    document.body.style.overflow = 'auto';
   } else {
     menu.classList.add('showMenu');
     menu.style.top = '50px';
     closeIcon.style.display = 'block';
     menuIcon.style.display = 'none';
     menu.style.opacity = 1;
+    document.body.style.overflow = 'hidden';
   }
 }
 
